@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+  background: linear-gradient(rgb(0,0,0,0.6), rgb(0,0,0,0.6)), url('https://cdn.pixabay.com/photo/2023/12/08/23/46/cat-8438334_1280.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
